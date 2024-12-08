@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Қош келдіңіздер</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #FF9A8B, #FF6A88);
+            color: #ffffff;
+        }
+        .container {
+            text-align: center;
+        }
+        h1 {
+            font-size: 48px;
+            color: #ffffff;
+            margin: 20px 0;
+        }
+        p {
+            margin-top: 0;
+            font-size: 20px;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            font-size: 20px;
+            background-color: #FFFF00;
+            color: #000;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #FFD700;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>Жетпісбаев Мұхтардың wix сайты</p>
+        <h1>ҚОШ КЕЛДІҢІЗДЕР</h1>
+        <a class="button" href="https://zetpisbaevmuhtar29.wixsite.com/muhtarmy-site-2" target="_blank">САЙТҚА ӨТУ</a>
+    </div>
+</body>
+</html>
